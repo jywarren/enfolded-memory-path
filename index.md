@@ -25,6 +25,42 @@ With care,
 
 ![mushroom](images/5.jpg)
 
+![mushroom](images/6.jpg)
+
+![mushroom](images/7.jpg)
+
+![mushroom](images/8.jpg)
+
+![mushroom](images/9.jpg)
+
+![mushroom](images/10.jpg)
+
+![mushroom](images/11.jpg)
+
+![mushroom](images/12.jpg)
+
+![mushroom](images/13.jpg)
+
+![mushroom](images/14.jpg)
+
+![mushroom](images/15.jpg)
+
+![mushroom](images/16.jpg)
+
+![mushroom](images/17.jpg)
+
+![mushroom](images/18.jpg)
+
+![mushroom](images/19.jpg)
+
+![mushroom](images/20.jpg)
+
+![mushroom](images/21.jpg)
+
+![mushroom](images/22.jpg)
+
+![mushroom](images/23.jpg)
+
 <style>
 .markdown-css h1 a {
   text-decoration: underline;

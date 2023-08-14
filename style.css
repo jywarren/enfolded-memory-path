@@ -1,0 +1,80 @@
+html {
+  background: #333;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+.markdown-css {
+  font-family: Lora, serif;
+}
+
+header {
+  padding: 12px;
+  padding: 0;
+  font-size: 23px;
+  overflow: hidden;
+}
+
+header a {
+  padding: 20px 4px;
+  color: #fff;
+  text-decoration: none;
+}
+
+header .links {
+  padding: 20px;
+}
+
+a,
+.markdown-css a {
+  color: #63a3bd;
+}
+
+.md-pages {
+  padding: 0;
+  margin: 0;
+  background: #fff;
+}
+
+/* breaks out of content div and presents edge-to-edge content without absolute positioning */
+.markdown-css p img {
+  width:100vw !important;
+  margin:0 calc((100% / 2) - 50vw) !important;
+  max-width: none;
+  overflow: hidden;
+}
+
+.md-pages h1,
+.md-pages h2,
+.md-pages h3 {
+  padding: 30px 10vw 0vw;
+  font-weight: normal;
+  font-size: 5.6vw;
+  margin: 0;
+}
+
+.md-pages h1 {
+  font-size: 11vw;
+}
+
+.md-pages h3 {
+  font-size: 3.4vw;
+}
+
+@media (min-width: 768px) {
+  .md-pages h3 {
+    -webkit-columns:2;
+    -moz-columns:2;
+    columns:2;
+  }
+}
+
+.markdown-css p {
+  margin-bottom: 0;
+  padding: 10vw;
+}

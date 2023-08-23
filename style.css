@@ -59,7 +59,11 @@ a,
 }
 
 .md-pages h1 {
-  font-size: 11vw;
+  font-size: 8vw;
+}
+
+.md-pages h2 {
+  font-size: 5vw;
 }
 
 .md-pages h3 {
@@ -76,5 +80,5 @@ a,
 
 .markdown-css p {
   margin-bottom: 0;
-  padding: 10vw;
+  padding: 3vw 10vw;
 }

@@ -14,7 +14,9 @@ With care,
 <br />Jeffrey & Dri
 <br /><a href="https://unterbahn.com">unterbahn.com</a> &amp; <a href="https://hellodri.itch.io">hellodri.itch.io</a>
 
-Note: Cutting and folding instructions and additional information on this zine are [available on this page](https://unterbahn.com/zine/).
+To purchase a copy of this zine, [visit Jeffrey's online shop](https://unterbahn.square.site).
+
+Note: Cutting and folding videos/instructions and additional information on this zine are [available on this page](https://unterbahn.com/zine/).
 
 ![The zine, folded up into a tidy pile, oddly-shaped later pages sticking out on all sides.](images/1.jpg)
 

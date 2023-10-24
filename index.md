@@ -2,7 +2,7 @@
 
 ## _Jeffrey Yoo Warren & Dri Chiu Tattersfield for DIY Methods_
 
-In the Seeing Lost Enclaves project, we have been carefully researching displaced Chinatown communities through archival research, 3D modeling, zinemaking, and other mediums, with a focus on personal (re)connection, community building, and process reflections, through a process called relational reconstruction. 
+In the [Seeing Lost Enclaves project](https://libraryofcongress.github.io/seeing-lost-enclaves/), we have been carefully researching displaced Chinatown communities through archival research, 3D modeling, zinemaking, and other mediums, with a focus on personal (re)connection, community building, and process reflections, through a process called relational reconstruction. 
 
 ![A broadsheet sized color print of many building facades and streetlight-lit cobbled streets, laid out flat in a sprawling collaged map-like arrangement, with text boxes around it.](images/full-spread.jpg)
 
